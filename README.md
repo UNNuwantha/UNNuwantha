@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **BSc (Hons) Computer Science**
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 📫 How to reach me **nadun50@gmail.com**
+- 📫 How to reach me **www.nadun50@gmail.com**
 - ⚡ Fun fact **Addicted to Coding**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,7 +19,7 @@
   <a href="https://fb.com/nipuna nuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/nipuna_nuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://discord.gg/nadun60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
+ </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
