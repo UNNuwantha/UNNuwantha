@@ -47,18 +47,24 @@
 </p>
 
 <br><br>
-
 <h3 align="left">📊 My GitHub Stats</h3>
 
-<!-- GitHub Stats (Left) + Top Languages (Center) side by side -->
 <p align="center">
-  <img align="left" src="https://github-stats-extended.vercel.app/api?username=unnuwantha&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=unnuwantha&show_icons=true&layout=compact&theme=radical&locale=en" alt="Top Languages" />
+  <!-- GitHub Stats Card (using faster mirror) -->
+  <img align="left" 
+       src="https://github-readme-stats-fast.vercel.app/api?username=unnuwantha&show_icons=true&theme=radical&locale=en&cache_seconds=1800" 
+       alt="Nipuna Nuwantha GitHub Stats" />
+
+  <!-- Top Languages Card (using faster mirror) -->
+  <img align="center" 
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=unnuwantha&show_icons=true&layout=compact&theme=radical&locale=en&cache_seconds=1800" 
+       alt="Top Languages" />
 </p>
 
 <br><br><br><br>
 
-<!-- GitHub Streak - Centered Below -->
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=unnuwantha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=unnuwantha&theme=radical&cache_seconds=1800" 
+       alt="GitHub Streak" />
 </p>
